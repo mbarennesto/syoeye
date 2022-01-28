@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syoeye
-- 👀 I’m interested in learning Hacking cool stuff!
+- 👀 I’m interested in Ethical Hacker career!
 - 🌱 I’m currently learning Python
 - 📫 How to reach me [Twitter](https://twitter.com/syouranyz)
 
