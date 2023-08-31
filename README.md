@@ -16,7 +16,7 @@
    <img align="center" alt="mbare-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 </div>   
-____________________________________________________________<br><br>
+_________________________________________________________<br><br>
 
 <div>
    <a href = "mailto: erne.dima@gmail.com"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -26,7 +26,7 @@ ____________________________________________________________<br><br>
           
 </div> 
 
-____________________________________________________________<br><br>
+_________________________________________________________<br><br>
 <!---
 syoeye/syoeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
