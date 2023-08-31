@@ -14,8 +14,9 @@
    <img align="center" alt="mbare-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
    <img align="center" alt="mbare-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
    <img align="center" alt="mbare-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img align="center" alt="mbare-emacs" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:EmacsIcon.svg#/media/File:EmacsIcon.svg)" />
 </div>   
-_____________________________<br><br>
+_________________________________<br><br>
 
 <div>
    <a href = "mailto: erne.dima@gmail.com"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,6 +26,7 @@ _____________________________<br><br>
           
 </div> 
 
+_________________________________<br><br>
 
 <!---
 syoeye/syoeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
