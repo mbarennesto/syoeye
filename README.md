@@ -14,7 +14,7 @@
    <img align="center" alt="mbare-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
    <img align="center" alt="mbare-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
    <img align="center" alt="mbare-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="mbare-emacs" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:EmacsIcon.svg#/media/File:EmacsIcon.svg)" />
+
 </div>   
 _________________________________<br><br>
 
